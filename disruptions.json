@@ -6685,21 +6685,6 @@
         "shortMessage": "Arrêt(s) non desservi(s)"
     },
     {
-        "id": "badf9000-e2a6-11ef-bc92-0a58a9feac02",
-        "applicationPeriods": [
-            {
-                "begin": "20250204T041500",
-                "end": "20250210T232000"
-            }
-        ],
-        "lastUpdate": "20250204T041840",
-        "cause": "TRAVAUX",
-        "severity": "BLOQUANTE",
-        "title": "Bus 141 : Travaux - Arrêt(s) non desservi(s)",
-        "message": "<p>La ligne 141 est déviée : les arrêts situés entre Palissy et Liberté - Plaideurs ne sont plus desservis en direction de Lycée de Rueil-Malmaison. Reprise estimée : lundi 10 février 2025, à partir de 23h20. Raison : travaux.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
-        "shortMessage": "Arrêt(s) non desservi(s)"
-    },
-    {
         "id": "c009d0f4-e2a6-11ef-8f12-0a58a9feac02",
         "applicationPeriods": [
             {
@@ -9765,51 +9750,6 @@
         "shortMessage": "Arrêt(s) non desservi(s)"
     },
     {
-        "id": "e3bfa35e-e2ef-11ef-9114-0a58a9feac02",
-        "applicationPeriods": [
-            {
-                "begin": "20250204T125724",
-                "end": "20250204T132213"
-            }
-        ],
-        "lastUpdate": "20250204T130221",
-        "cause": "PERTURBATION",
-        "severity": "BLOQUANTE",
-        "title": "Bus 76 : Accident sur la voie publique - Arrêt(s) non desservi(s)",
-        "message": "<p>L’arrêt Général de Gaulle de la ligne 76 n'est pas desservi en direction de Châtelet. Reprise estimée : 12h59. Raison : accident.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
-        "shortMessage": "Arrêt(s) non desservi(s)"
-    },
-    {
-        "id": "ea36224e-e2ef-11ef-803f-0a58a9feac02",
-        "applicationPeriods": [
-            {
-                "begin": "20250204T125724",
-                "end": "20250204T125824"
-            }
-        ],
-        "lastUpdate": "20250204T130232",
-        "cause": "PERTURBATION",
-        "severity": "BLOQUANTE",
-        "title": "Bus 76 : Accident sur la voie publique - Arrêt(s) non desservi(s)",
-        "message": "<p>L’arrêt Général de Gaulle de la ligne 76 n'est pas desservi en direction de Châtelet. Reprise estimée : 14h00. Raison : accident.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
-        "shortMessage": "Arrêt(s) non desservi(s)"
-    },
-    {
-        "id": "771cd2ac-e2f0-11ef-803f-0a58a9feac02",
-        "applicationPeriods": [
-            {
-                "begin": "20250204T130210",
-                "end": "20250204T130310"
-            }
-        ],
-        "lastUpdate": "20250204T130629",
-        "cause": "TRAVAUX",
-        "severity": "BLOQUANTE",
-        "title": "Bus 394 : Travaux - Arrêt(s) non desservi(s)",
-        "message": "<p>La ligne 394 sera déviée : les arrêts situés entre Colonel Fabien et Général de Gaulle ne seront plus desservis en direction de Issy – Val de Seine <RER>. Quand : à partir du mardi 4 février 2025, jusqu'au mardi 4 mars 2025. Raison : travaux.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
-        "shortMessage": "Arrêt(s) non desservi(s)"
-    },
-    {
         "id": "7dde4ca6-e2f0-11ef-8fb5-0a58a9feac02",
         "applicationPeriods": [
             {
@@ -9822,156 +9762,6 @@
         "severity": "BLOQUANTE",
         "title": "Bus 394 : Travaux - Arrêt(s) non desservi(s)",
         "message": "<p>La ligne 394 est déviée : les arrêts situés entre Colonel Fabien et Général de Gaulle ne sont plus desservis en direction de Issy – Val de Seine <RER>. Reprise estimée : mardi 4 mars 2025, à partir de 16h30. Raison : travaux.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
-        "shortMessage": "Arrêt(s) non desservi(s)"
-    },
-    {
-        "id": "0434855e-e2f1-11ef-8fb5-0a58a9feac02",
-        "applicationPeriods": [
-            {
-                "begin": "20250204T130627",
-                "end": "20250204T130727"
-            }
-        ],
-        "lastUpdate": "20250204T131025",
-        "cause": "PERTURBATION",
-        "severity": "BLOQUANTE",
-        "title": "Bus 95 : Stationnement gênant - Arrêt(s) non desservi(s)",
-        "message": "<p>La ligne 95 est déviée : les arrêts situés entre Pont du Carrousel - Quai Voltaire et Petits Champs - Danielle Casanova ne sont plus desservis en direction de Porte de Montmartre. Reprise estimée : 20h00. Raison : stationnement gênant.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
-        "shortMessage": "Arrêt(s) non desservi(s)"
-    },
-    {
-        "id": "4989266e-e2f1-11ef-803f-0a58a9feac02",
-        "applicationPeriods": [
-            {
-                "begin": "20250204T130800",
-                "end": "20250204T150800"
-            }
-        ],
-        "lastUpdate": "20250204T131222",
-        "cause": "PERTURBATION",
-        "severity": "BLOQUANTE",
-        "title": "Bus 27 : Stationnement gênant - Arrêt(s) non desservi(s)",
-        "message": "<p>La ligne 27 est déviée : les arrêts situés entre Palais Royal - Comédie Française et Pont Neuf - Quai du Louvre ne sont plus desservis en direction de Porte d'Ivry. Reprise estimée : 15h08. Raison : stationnement gênant.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
-        "shortMessage": "Arrêt(s) non desservi(s)"
-    },
-    {
-        "id": "ddb8c1fa-e2f1-11ef-8fb5-0a58a9feac02",
-        "applicationPeriods": [
-            {
-                "begin": "20250204T131210",
-                "end": "20250204T131310"
-            }
-        ],
-        "lastUpdate": "20250204T131630",
-        "cause": "PERTURBATION",
-        "severity": "BLOQUANTE",
-        "title": "Bus 27 : Stationnement gênant - Arrêt(s) non desservi(s)",
-        "message": "<p>La ligne 27 est déviée : les arrêts situés entre Pont du Carrousel - Quai Voltaire et Petits Champs - Danielle Casanova ne sont plus desservis en direction de Gare Saint-Lazare. Reprise estimée : 15h00. Raison : stationnement gênant.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
-        "shortMessage": "Arrêt(s) non desservi(s)"
-    },
-    {
-        "id": "e508b906-e2f1-11ef-803f-0a58a9feac02",
-        "applicationPeriods": [
-            {
-                "begin": "20250204T131210",
-                "end": "20250204T131310"
-            }
-        ],
-        "lastUpdate": "20250204T131643",
-        "cause": "PERTURBATION",
-        "severity": "BLOQUANTE",
-        "title": "Bus 68 : Manifestation - Arrêt(s) non desservi(s)",
-        "message": "<p>La ligne 68 est déviée : les arrêts situés entre Musée du Louvre et Sèvres - Babylone ne sont plus desservis en direction de Châtillon – Montrouge – <METRO>. Reprise estimée : 15h00. Raison : manifestation.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
-        "shortMessage": "Arrêt(s) non desservi(s)"
-    },
-    {
-        "id": "eb7b8fc0-e2f1-11ef-8fb5-0a58a9feac02",
-        "applicationPeriods": [
-            {
-                "begin": "20250204T131300",
-                "end": "20250204T200000"
-            }
-        ],
-        "lastUpdate": "20250204T131653",
-        "cause": "PERTURBATION",
-        "severity": "BLOQUANTE",
-        "title": "Bus 68 : Accident sur la voie publique - Arrêt(s) non desservi(s)",
-        "message": "<p>La ligne 68 est déviée : les arrêts situés entre Palais Royal - Comédie Française et Sèvres - Babylone ne sont plus desservis en direction de Châtillon – Montrouge – <METRO>. Reprise estimée : 20h00. Raison : accident.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
-        "shortMessage": "Arrêt(s) non desservi(s)"
-    },
-    {
-        "id": "25d9509e-e2f2-11ef-803f-0a58a9feac02",
-        "applicationPeriods": [
-            {
-                "begin": "20250204T131313",
-                "end": "20250204T133823"
-            }
-        ],
-        "lastUpdate": "20250204T131831",
-        "cause": "TRAVAUX",
-        "severity": "BLOQUANTE",
-        "title": "Bus 28 : Travaux - Arrêt(s) non desservi(s)",
-        "message": "<p>La ligne 28 est déviée : les arrêts situés entre Duquesne - Lowendal et La Tour Maubourg - Saint-Dominique ne sont plus desservis en direction de Porte de Clichy. Reprise estimée : 17h00. Raison : travaux.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
-        "shortMessage": "Arrêt(s) non desservi(s)"
-    },
-    {
-        "id": "62b6005c-e2f2-11ef-803f-0a58a9feac02",
-        "applicationPeriods": [
-            {
-                "begin": "20250204T131506",
-                "end": "20250204T131606"
-            }
-        ],
-        "lastUpdate": "20250204T132013",
-        "cause": "TRAVAUX",
-        "severity": "BLOQUANTE",
-        "title": "Bus 39 : Travaux - Arrêt(s) non desservi(s)",
-        "message": "<p>La ligne 39 est déviée : les arrêts situés entre Grands Boulevards et Musée du Louvre ne sont plus desservis en direction de Issy-les-Moulineaux – Frères Voisin. Reprise estimée : dimanche 20 avril 2025, à partir de 02h00. Raison : travaux.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
-        "shortMessage": "Arrêt(s) non desservi(s)"
-    },
-    {
-        "id": "70df1268-e2f2-11ef-803f-0a58a9feac02",
-        "applicationPeriods": [
-            {
-                "begin": "20250204T200000",
-                "end": "20250418T230000"
-            }
-        ],
-        "lastUpdate": "20250204T132037",
-        "cause": "TRAVAUX",
-        "severity": "BLOQUANTE",
-        "title": "Bus 39 : Travaux - Arrêt(s) non desservi(s)",
-        "message": "<p>La ligne 39 sera déviée : les arrêts situés entre Grands Boulevards et Musée du Louvre ne seront plus desservis en direction de Issy-les-Moulineaux – Frères Voisin. Quand : à partir du mardi 4 février 2025, jusqu'au vendredi 18 avril 2025. Raison : travaux.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
-        "shortMessage": "Arrêt(s) non desservi(s)"
-    },
-    {
-        "id": "76ede5c6-e2f2-11ef-8fb5-0a58a9feac02",
-        "applicationPeriods": [
-            {
-                "begin": "20250204T131600",
-                "end": "20250204T150000"
-            }
-        ],
-        "lastUpdate": "20250204T132047",
-        "cause": "PERTURBATION",
-        "severity": "BLOQUANTE",
-        "title": "Bus 39 : Accident sur la voie publique - Arrêt(s) non desservi(s)",
-        "message": "<p>La ligne 39 est déviée : les arrêts situés entre Grands Boulevards et Pont du Carrousel - Quai Voltaire ne sont plus desservis en direction de Issy-les-Moulineaux – Frères Voisin. Reprise estimée : 15h00. Raison : accident.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
-        "shortMessage": "Arrêt(s) non desservi(s)"
-    },
-    {
-        "id": "b005f60a-e2f2-11ef-8fb5-0a58a9feac02",
-        "applicationPeriods": [
-            {
-                "begin": "20250204T131706",
-                "end": "20250204T131806"
-            }
-        ],
-        "lastUpdate": "20250204T132223",
-        "cause": "TRAVAUX",
-        "severity": "BLOQUANTE",
-        "title": "Bus 28 : Travaux - Arrêt(s) non desservi(s)",
-        "message": "<p>La ligne 28 est déviée : les arrêts situés entre Duquesne - Lowendal et La Tour Maubourg - Saint-Dominique ne sont plus desservis en direction de Porte de Clichy. Reprise estimée : 17h00. Raison : travaux.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
         "shortMessage": "Arrêt(s) non desservi(s)"
     },
     {
@@ -10054,21 +9844,6 @@
         "shortMessage": "Arrêt(s) non desservi(s)"
     },
     {
-        "id": "4d6c4982-e2f6-11ef-9114-0a58a9feac02",
-        "applicationPeriods": [
-            {
-                "begin": "20250204T125500",
-                "end": "20250204T200000"
-            }
-        ],
-        "lastUpdate": "20250204T134816",
-        "cause": "PERTURBATION",
-        "severity": "BLOQUANTE",
-        "title": "Bus 95 : Stationnement gênant - Arrêt(s) non desservi(s)",
-        "message": "<p>L’arrêt Musée du Louvre de la ligne 95 n'est pas desservi en direction de Porte de Vanves – Place Simard. Reprise estimée : 20h00. Raison : stationnement gênant.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
-        "shortMessage": "Arrêt(s) non desservi(s)"
-    },
-    {
         "id": "53444f1c-e2f6-11ef-8fb5-0a58a9feac02",
         "applicationPeriods": [
             {
@@ -10114,24 +9889,6 @@
         "shortMessage": "Arrêt(s) non desservi(s)"
     },
     {
-        "id": "9973260c-e2f6-11ef-9114-0a58a9feac02",
-        "applicationPeriods": [
-            {
-                "begin": "20250204T134800",
-                "end": "20250205T043000"
-            }
-        ],
-        "lastUpdate": "20250204T135023",
-        "cause": "PERTURBATION",
-        "severity": "BLOQUANTE",
-        "tags": [
-            "Actualité"
-        ],
-        "title": "Métro 5 : Bagage oublié sur un quai - Trafic interrompu",
-        "message": "<p>Le trafic est interrompu entre Eglise de Pantin et Jaurès en raison d'un bagage oublié sur un quai à Hoche . <br>Heure de reprise estimée : 15:00.<br>Nous vous invitons à emprunter des itinéraires alternatifs et à vous rapprocher de nos agents.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
-        "shortMessage": "Trafic interrompu"
-    },
-    {
         "id": "23f6af38-e2f7-11ef-9114-0a58a9feac02",
         "applicationPeriods": [
             {
@@ -10174,6 +9931,156 @@
         "severity": "BLOQUANTE",
         "title": "Bus 21 : Accident sur la voie publique - Arrêt(s) non desservi(s)",
         "message": "<p>La ligne 21 est déviée : les arrêts situés entre Rivoli - Pont Neuf et Petits Champs - Danielle Casanova ne sont plus desservis en direction de Porte de Saint-Ouen – Hôpital Bichat. Reprise estimée : 20h00. Raison : accident.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
+        "shortMessage": "Arrêt(s) non desservi(s)"
+    },
+    {
+        "id": "f01c802c-e2f9-11ef-803f-0a58a9feac02",
+        "applicationPeriods": [
+            {
+                "begin": "20250204T041500",
+                "end": "20250210T232000"
+            }
+        ],
+        "lastUpdate": "20250204T141417",
+        "cause": "TRAVAUX",
+        "severity": "BLOQUANTE",
+        "title": "Bus 141 : Travaux - Arrêt(s) non desservi(s)",
+        "message": "<p>La ligne 141 est déviée : les arrêts situés entre Palissy et Liberté - Plaideurs ne sont plus desservis en direction de Lycée de Rueil-Malmaison. Reprise estimée : lundi 10 février 2025, à partir de 23h20. Raison : travaux.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
+        "shortMessage": "Arrêt(s) non desservi(s)"
+    },
+    {
+        "id": "f77cf694-e2f9-11ef-8fb5-0a58a9feac02",
+        "applicationPeriods": [
+            {
+                "begin": "20250204T141028",
+                "end": "20250204T141128"
+            }
+        ],
+        "lastUpdate": "20250204T141429",
+        "cause": "TRAVAUX",
+        "severity": "BLOQUANTE",
+        "title": "Bus 141 : Travaux - Arrêt(s) non desservi(s)",
+        "message": "<p>La ligne 141 sera déviée : les arrêts situés entre Palissy et Liberté - Plaideurs ne seront plus desservis en direction de Lycée de Rueil-Malmaison. Quand : à partir du mardi 4 février 2025, jusqu'au lundi 10 février 2025. Raison : travaux.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
+        "shortMessage": "Arrêt(s) non desservi(s)"
+    },
+    {
+        "id": "555cacf4-e2fb-11ef-8fb5-0a58a9feac02",
+        "applicationPeriods": [
+            {
+                "begin": "20250204T141924",
+                "end": "20250204T142024"
+            }
+        ],
+        "lastUpdate": "20250204T142416",
+        "cause": "PERTURBATION",
+        "severity": "BLOQUANTE",
+        "title": "Bus 39 : Accident sur la voie publique - Arrêt(s) non desservi(s)",
+        "message": "<p>La ligne 39 est déviée : les arrêts situés entre Grands Boulevards et Pont du Carrousel - Quai Voltaire ne sont plus desservis en direction de Issy-les-Moulineaux – Frères Voisin. Reprise estimée : 15h00. Raison : accident.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
+        "shortMessage": "Arrêt(s) non desservi(s)"
+    },
+    {
+        "id": "5ae5acfc-e2fb-11ef-9114-0a58a9feac02",
+        "applicationPeriods": [
+            {
+                "begin": "20250204T142008",
+                "end": "20250204T144418"
+            }
+        ],
+        "lastUpdate": "20250204T142426",
+        "cause": "TRAVAUX",
+        "severity": "BLOQUANTE",
+        "title": "Bus 39 : Travaux - Arrêt(s) non desservi(s)",
+        "message": "<p>La ligne 39 est déviée : les arrêts situés entre Grands Boulevards et Musée du Louvre ne sont plus desservis en direction de Issy-les-Moulineaux – Frères Voisin. Reprise estimée : vendredi 18 avril 2025, à partir de 23h00. Raison : travaux.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
+        "shortMessage": "Arrêt(s) non desservi(s)"
+    },
+    {
+        "id": "604026d2-e2fb-11ef-8fb5-0a58a9feac02",
+        "applicationPeriods": [
+            {
+                "begin": "20250204T142027",
+                "end": "20250204T144427"
+            }
+        ],
+        "lastUpdate": "20250204T142435",
+        "cause": "PERTURBATION",
+        "severity": "BLOQUANTE",
+        "title": "Bus 68 : Accident sur la voie publique - Arrêt(s) non desservi(s)",
+        "message": "<p>La ligne 68 est déviée : les arrêts situés entre Palais Royal - Comédie Française et Sèvres - Babylone ne sont plus desservis en direction de Châtillon – Montrouge – <METRO>. Reprise estimée : 14h21. Raison : accident.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
+        "shortMessage": "Arrêt(s) non desservi(s)"
+    },
+    {
+        "id": "65a2d3d6-e2fb-11ef-9114-0a58a9feac02",
+        "applicationPeriods": [
+            {
+                "begin": "20250204T142100",
+                "end": "20250418T230000"
+            }
+        ],
+        "lastUpdate": "20250204T142444",
+        "cause": "TRAVAUX",
+        "severity": "BLOQUANTE",
+        "title": "Bus 39 : Travaux - Arrêt(s) non desservi(s)",
+        "message": "<p>La ligne 39 est déviée : les arrêts situés entre Grands Boulevards et Musée du Louvre ne sont plus desservis en direction de Issy-les-Moulineaux – Frères Voisin. Reprise estimée : vendredi 18 avril 2025, à partir de 23h00. Raison : travaux.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
+        "shortMessage": "Arrêt(s) non desservi(s)"
+    },
+    {
+        "id": "6c6cb98e-e2fb-11ef-8fb5-0a58a9feac02",
+        "applicationPeriods": [
+            {
+                "begin": "20250204T142027",
+                "end": "20250204T142127"
+            }
+        ],
+        "lastUpdate": "20250204T142455",
+        "cause": "PERTURBATION",
+        "severity": "BLOQUANTE",
+        "title": "Bus 68 : Accident sur la voie publique - Arrêt(s) non desservi(s)",
+        "message": "<p>La ligne 68 est déviée : les arrêts situés entre Palais Royal - Comédie Française et Sèvres - Babylone ne sont plus desservis en direction de Châtillon – Montrouge – <METRO>. Reprise estimée : 20h00. Raison : accident.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
+        "shortMessage": "Arrêt(s) non desservi(s)"
+    },
+    {
+        "id": "79dbd60e-e2fb-11ef-9114-0a58a9feac02",
+        "applicationPeriods": [
+            {
+                "begin": "20250204T142008",
+                "end": "20250204T142108"
+            }
+        ],
+        "lastUpdate": "20250204T142518",
+        "cause": "TRAVAUX",
+        "severity": "BLOQUANTE",
+        "title": "Bus 39 : Travaux - Arrêt(s) non desservi(s)",
+        "message": "<p>La ligne 39 sera déviée : les arrêts situés entre Grands Boulevards et Musée du Louvre ne seront plus desservis en direction de Issy-les-Moulineaux – Frères Voisin. Quand : à partir du mardi 4 février 2025, jusqu'au vendredi 18 avril 2025. Raison : travaux.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
+        "shortMessage": "Arrêt(s) non desservi(s)"
+    },
+    {
+        "id": "a14f15b6-e2fb-11ef-9114-0a58a9feac02",
+        "applicationPeriods": [
+            {
+                "begin": "20250204T142125",
+                "end": "20250204T142225"
+            }
+        ],
+        "lastUpdate": "20250204T142624",
+        "cause": "PERTURBATION",
+        "severity": "BLOQUANTE",
+        "title": "Bus 95 : Stationnement gênant - Arrêt(s) non desservi(s)",
+        "message": "<p>L’arrêt Musée du Louvre de la ligne 95 n'est pas desservi en direction de Porte de Vanves – Place Simard. Reprise estimée : 20h00. Raison : stationnement gênant.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
+        "shortMessage": "Arrêt(s) non desservi(s)"
+    },
+    {
+        "id": "4827e9ca-e2fd-11ef-8fb5-0a58a9feac02",
+        "applicationPeriods": [
+            {
+                "begin": "20250204T143310",
+                "end": "20250204T143410"
+            }
+        ],
+        "lastUpdate": "20250204T143813",
+        "cause": "PERTURBATION",
+        "severity": "BLOQUANTE",
+        "title": "Bus 27 : Stationnement gênant - Arrêt(s) non desservi(s)",
+        "message": "<p>La ligne 27 est déviée : les arrêts situés entre Palais Royal - Comédie Française et Pont Neuf - Quai du Louvre ne sont plus desservis en direction de Porte d'Ivry. Reprise estimée : 15h08. Raison : stationnement gênant.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
         "shortMessage": "Arrêt(s) non desservi(s)"
     },
     {
@@ -26121,24 +26028,6 @@
         "message": "<p><strong><u>Ligne 482 (Seine Grand Orly) - Départs non assurés:</u></strong><br><br>Au départ de <strong>Place Jeanne d'Arc</strong> : 12h18</p><p>Au départ de <strong>Belle Epine Sud</strong> : 13h36</p><p>&nbsp;</p><p>Merci de votre compréhension.&nbsp;</p>"
     },
     {
-        "id": "698e2170-e2f2-11ef-8fb5-0a58a9feac02",
-        "applicationPeriods": [
-            {
-                "begin": "20250204T131515",
-                "end": "20250204T131615"
-            }
-        ],
-        "lastUpdate": "20250204T132025",
-        "cause": "PERTURBATION",
-        "severity": "PERTURBEE",
-        "tags": [
-            "Actualité"
-        ],
-        "title": "Métro 5 : Incident (intervention conducteur) - Train stationne",
-        "message": "<p>Un train stationne à Bobigny Pablo Picasso en direction de Place d'Italie en raison d'un incident nécessitant l’intervention du conducteur.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
-        "shortMessage": "Train stationne"
-    },
-    {
         "id": "92507816-e2f6-11ef-8fb5-0a58a9feac02",
         "applicationPeriods": [
             {
@@ -26155,6 +26044,105 @@
         "title": "Tramway T3B : Accident de la route bloquant les voies - Trafic perturbé",
         "message": "<p>Le trafic est perturbé sur l'ensemble de la ligne en raison d'un accident de la route bloquant les voies à Porte de Clichy.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
         "shortMessage": "Trafic perturbé"
+    },
+    {
+        "id": "72e3767c-e2fb-11ef-8fb5-0a58a9feac02",
+        "applicationPeriods": [
+            {
+                "begin": "20250204T142200",
+                "end": "20250205T043000"
+            }
+        ],
+        "lastUpdate": "20250204T142506",
+        "cause": "PERTURBATION",
+        "severity": "PERTURBEE",
+        "tags": [
+            "Actualité"
+        ],
+        "title": "Métro 5 : Bagage oublié sur un quai - Trafic perturbé",
+        "message": "<p>Le trafic est perturbé sur l'ensemble de la ligne en raison d'un bagage oublié sur un quai à Hoche.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
+        "shortMessage": "Trafic perturbé"
+    },
+    {
+        "id": "2781db14-e2fc-11ef-9114-0a58a9feac02",
+        "applicationPeriods": [
+            {
+                "begin": "20250204T140600",
+                "end": "20250204T200000"
+            }
+        ],
+        "lastUpdate": "20250204T143009",
+        "cause": "PERTURBATION",
+        "severity": "PERTURBEE",
+        "title": "⚠🚍 Ligne 7 - mardi 4 février 2025",
+        "message": "<p><p>⚠🚍 Ligne 7 - mardi 4 février 2025</p><p>En raison de contraintes d'exploitation, les départs suivants sont supprimés :</p><p>❌Départs de Gare d'Argenteuil : 14h08, 15h07, 16h36, 17h48, 19h00</p><p>❌Départs de  : 14h39, 15h39, 17h13, 18h25</p><p>Nous vous prions de bien vouloir nous excuser pour la gêne occasionnée.</p></p>"
+    },
+    {
+        "id": "297f09a0-e2fc-11ef-8fb5-0a58a9feac02",
+        "applicationPeriods": [
+            {
+                "begin": "20250204T142545",
+                "end": "20250204T142645"
+            }
+        ],
+        "lastUpdate": "20250204T143012",
+        "cause": "PERTURBATION",
+        "severity": "PERTURBEE",
+        "tags": [
+            "Actualité"
+        ],
+        "title": "Métro 2 : Malaise voyageur - Trafic perturbé",
+        "message": "<p>Le trafic est perturbé sur l'ensemble de la ligne en raison d'un malaise voyageur à Ménilmontant.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
+        "shortMessage": "Trafic perturbé"
+    },
+    {
+        "id": "71daf7fe-e2fc-11ef-8fb5-0a58a9feac02",
+        "applicationPeriods": [
+            {
+                "begin": "20250204T142744",
+                "end": "20250204T142844"
+            }
+        ],
+        "lastUpdate": "20250204T143214",
+        "cause": "PERTURBATION",
+        "severity": "PERTURBEE",
+        "tags": [
+            "Actualité"
+        ],
+        "title": "Métro 14 : Incident technique sur un train - Trafic perturbé",
+        "message": "<p>Le trafic est perturbé sur l'ensemble de la ligne en raison d'un incident technique sur un train à Saint-Denis - Pleyel.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
+        "shortMessage": "Trafic perturbé"
+    },
+    {
+        "id": "c3659e08-e2fc-11ef-8fb5-0a58a9feac02",
+        "applicationPeriods": [
+            {
+                "begin": "20250204T143000",
+                "end": "20250204T193000"
+            }
+        ],
+        "lastUpdate": "20250204T143431",
+        "cause": "PERTURBATION",
+        "severity": "PERTURBEE",
+        "tags": [
+            "Actualité"
+        ],
+        "title": "⚠️🚍#InfoTrafic- Ligne 9518 - Mardi 04 février 2025",
+        "message": "<p><span><strong>⚠️🚍</strong></span><span style=\"color:rgb(29,155,240);\"><span><strong>#InfoTrafic</strong></span></span><span><strong>- Ligne 9518 - Mardi 04 février 2025</strong></span></p><p>&nbsp;</p><p><span>En raison de contraintes d’exploitation, les départs suivants sont annulés :</span></p><p>&nbsp;</p><p><span>❌Départs de Roissypole : <strong>16h00, 18h00</strong></span></p><p><span>❌Départs Gare de Cergy Préfecture : <strong>16h30, 17h30</strong></span></p><p>&nbsp;</p><p><span>Veuillez nous excuser pour la gêne occasionnée.</span></p>"
+    },
+    {
+        "id": "907858fe-e2fd-11ef-9114-0a58a9feac02",
+        "applicationPeriods": [
+            {
+                "begin": "20250210T030000",
+                "end": "20250310T230000"
+            }
+        ],
+        "lastUpdate": "20250204T144015",
+        "cause": "PERTURBATION",
+        "severity": "PERTURBEE",
+        "title": "RESEAU SENART DEV DU 10 FEVRIER AU 07 MARS 2025",
+        "message": "<p>Du lundi 10 février au vendredi 07 mars 2025<br>En raison de la création d’une piste cyclable sur l’Avenue du Clocher à Savigny-Le –Temple, et de la fermeture de celle-ci une déviation est mise en place. Les arrêts « Résistance » « Le Clocher » ne seront pas desservis.</p>"
     },
     {
         "id": "6b3d4450-ef95-4122-8729-06f472849c7f",
@@ -30244,21 +30232,21 @@
         "message": "<p>4 février 2025 <br>En raison d'une intervention en urgence rue Anatole France (chute d'un poteau ENEDIS) la ligne est déviée et les arrêts suivants ne seront pas desservis jusqu'à nouvel ordre : <br>- Croix Saint Jacques<br>- Collège R. Doisneau<br>- Vilaubois<br>Se reporter sur la ligne 3604<br>Veuillez nous excuser pour la gène occasionnée.</p>"
     },
     {
-        "id": "565d96e6-e2f5-11ef-9114-0a58a9feac02",
+        "id": "7068f212-e2fd-11ef-9114-0a58a9feac02",
         "applicationPeriods": [
             {
                 "begin": "20250204T133800",
                 "end": "20250204T203000"
             }
         ],
-        "lastUpdate": "20250204T134121",
+        "lastUpdate": "20250204T143921",
         "cause": "PERTURBATION",
         "severity": "INFORMATION",
         "tags": [
             "Actualité"
         ],
         "title": "Ligne R : Paris Lyon - Montargis forte affluence",
-        "message": "<p>Risque de forte affluence &#224; bord du train (les trains suivants circulent en composition r&#233;duite) :</p><p>- POMA, d&#233;part Montargis &#224; 13h02 - arriv&#233;e Paris Gare de Lyon &#224; 14h43.</p><p>- GAMO, d&#233;part Paris Gare de Lyon &#224; 15h16 - arriv&#233;e Montargis &#224; 16h55.</p><p><br></p><p>Retrouvez tous vos trains dans la rubrique itin&#233;raires ou prochains d&#233;parts.<br><br></p>",
+        "message": "<p>Risque de forte affluence &#224; bord du train (les trains suivants circulent en composition r&#233;duite) :</p><p>- POMA, d&#233;part Montargis &#224; 13h02 - arriv&#233;e Paris Gare de Lyon &#224; 14h43.</p><p>- GAMO, d&#233;part Paris Gare de Lyon &#224; 15h16 - arriv&#233;e Montargis &#224; 16h55.</p><p>- POMA, d&#233;part Montargis &#224; 16h02 - arriv&#233;e Paris Gare de Lyon &#224; 17h44.</p><p>- GAMO, d&#233;part Paris Gare de Lyon &#224; 18h07 - arriv&#233;e Montargis &#224; 19h47.</p><p>- POMA, d&#233;part Montargis &#224; 20h01 - arriv&#233;e Paris Gare de Lyon &#224; 21h43.</p><p>- GAME, d&#233;part Paris Gare de Lyon &#224; 17h31 - arriv&#233;e Montargis &#224; 18h56.<br></p><p>Retrouvez tous vos trains dans la rubrique itin&#233;raires ou prochains d&#233;parts.<br><br></p>",
         "shortMessage": "forte affluence"
     }
 ]
