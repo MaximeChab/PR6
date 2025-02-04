@@ -22550,11 +22550,11 @@
             },
             {
                 "begin": "20250107T233500",
-                "end": "20250108T043000"
+                "end": "20250130T010023"
             },
             {
                 "begin": "20250107T233500",
-                "end": "20250130T010023"
+                "end": "20250108T043000"
             },
             {
                 "begin": "20250108T233500",
@@ -22590,11 +22590,11 @@
             },
             {
                 "begin": "20250114T233500",
-                "end": "20250130T010020"
+                "end": "20250115T043000"
             },
             {
                 "begin": "20250114T233500",
-                "end": "20250115T043000"
+                "end": "20250130T010020"
             },
             {
                 "begin": "20250115T233500",
@@ -22670,19 +22670,19 @@
             },
             {
                 "begin": "20250128T233500",
-                "end": "20250130T010014"
-            },
-            {
-                "begin": "20250128T233500",
                 "end": "20250129T043000"
             },
             {
-                "begin": "20250129T233500",
-                "end": "20250130T010018"
+                "begin": "20250128T233500",
+                "end": "20250130T010014"
             },
             {
                 "begin": "20250129T233500",
                 "end": "20250130T043000"
+            },
+            {
+                "begin": "20250129T233500",
+                "end": "20250130T010018"
             },
             {
                 "begin": "20250130T233500",
@@ -22934,6 +22934,10 @@
         "applicationPeriods": [
             {
                 "begin": "20250107T040000",
+                "end": "20250130T091934"
+            },
+            {
+                "begin": "20250107T040000",
                 "end": "20250113T152355"
             },
             {
@@ -22942,15 +22946,15 @@
             },
             {
                 "begin": "20250107T040000",
-                "end": "20250124T114654"
-            },
-            {
-                "begin": "20250107T040000",
                 "end": "20250107T050000"
             },
             {
                 "begin": "20250107T040000",
-                "end": "20250130T091934"
+                "end": "20250124T114654"
+            },
+            {
+                "begin": "20250108T040000",
+                "end": "20250130T091943"
             },
             {
                 "begin": "20250108T040000",
@@ -22962,15 +22966,15 @@
             },
             {
                 "begin": "20250108T040000",
-                "end": "20250124T114653"
-            },
-            {
-                "begin": "20250108T040000",
                 "end": "20250108T050000"
             },
             {
                 "begin": "20250108T040000",
-                "end": "20250130T091943"
+                "end": "20250124T114653"
+            },
+            {
+                "begin": "20250109T040000",
+                "end": "20250130T091945"
             },
             {
                 "begin": "20250109T040000",
@@ -22982,23 +22986,11 @@
             },
             {
                 "begin": "20250109T040000",
-                "end": "20250124T114648"
-            },
-            {
-                "begin": "20250109T040000",
                 "end": "20250109T050000"
             },
             {
                 "begin": "20250109T040000",
-                "end": "20250130T091945"
-            },
-            {
-                "begin": "20250110T040000",
-                "end": "20250113T152351"
-            },
-            {
-                "begin": "20250110T040000",
-                "end": "20250116T155638"
+                "end": "20250124T114648"
             },
             {
                 "begin": "20250110T040000",
@@ -23010,15 +23002,15 @@
             },
             {
                 "begin": "20250110T040000",
+                "end": "20250113T152351"
+            },
+            {
+                "begin": "20250110T040000",
+                "end": "20250116T155638"
+            },
+            {
+                "begin": "20250110T040000",
                 "end": "20250110T050000"
-            },
-            {
-                "begin": "20250111T040000",
-                "end": "20250113T152352"
-            },
-            {
-                "begin": "20250111T040000",
-                "end": "20250116T155641"
             },
             {
                 "begin": "20250111T040000",
@@ -23030,11 +23022,15 @@
             },
             {
                 "begin": "20250111T040000",
-                "end": "20250111T050000"
+                "end": "20250113T152352"
             },
             {
-                "begin": "20250114T040000",
-                "end": "20250116T155638"
+                "begin": "20250111T040000",
+                "end": "20250116T155641"
+            },
+            {
+                "begin": "20250111T040000",
+                "end": "20250111T050000"
             },
             {
                 "begin": "20250114T040000",
@@ -23043,6 +23039,10 @@
             {
                 "begin": "20250114T040000",
                 "end": "20250130T091937"
+            },
+            {
+                "begin": "20250114T040000",
+                "end": "20250116T155638"
             },
             {
                 "begin": "20250114T040000",
@@ -23066,10 +23066,6 @@
             },
             {
                 "begin": "20250116T040000",
-                "end": "20250116T155644"
-            },
-            {
-                "begin": "20250116T040000",
                 "end": "20250124T114644"
             },
             {
@@ -23079,6 +23075,10 @@
             {
                 "begin": "20250116T040000",
                 "end": "20250116T050000"
+            },
+            {
+                "begin": "20250116T040000",
+                "end": "20250116T155644"
             },
             {
                 "begin": "20250117T040000",
@@ -23106,19 +23106,15 @@
             },
             {
                 "begin": "20250121T040000",
-                "end": "20250130T091943"
-            },
-            {
-                "begin": "20250121T040000",
                 "end": "20250124T114652"
             },
             {
                 "begin": "20250121T040000",
-                "end": "20250121T050000"
+                "end": "20250130T091943"
             },
             {
-                "begin": "20250122T040000",
-                "end": "20250130T091934"
+                "begin": "20250121T040000",
+                "end": "20250121T050000"
             },
             {
                 "begin": "20250122T040000",
@@ -23129,8 +23125,12 @@
                 "end": "20250122T050000"
             },
             {
+                "begin": "20250122T040000",
+                "end": "20250130T091934"
+            },
+            {
                 "begin": "20250123T040000",
-                "end": "20250130T091939"
+                "end": "20250123T050000"
             },
             {
                 "begin": "20250123T040000",
@@ -23138,11 +23138,7 @@
             },
             {
                 "begin": "20250123T040000",
-                "end": "20250123T050000"
-            },
-            {
-                "begin": "20250124T040000",
-                "end": "20250130T091935"
+                "end": "20250130T091939"
             },
             {
                 "begin": "20250124T040000",
@@ -23150,31 +23146,35 @@
             },
             {
                 "begin": "20250124T040000",
-                "end": "20250124T050000"
+                "end": "20250130T091935"
             },
             {
-                "begin": "20250125T040000",
-                "end": "20250130T091936"
+                "begin": "20250124T040000",
+                "end": "20250124T050000"
             },
             {
                 "begin": "20250125T040000",
                 "end": "20250125T050000"
             },
             {
-                "begin": "20250128T040000",
-                "end": "20250130T091940"
+                "begin": "20250125T040000",
+                "end": "20250130T091936"
             },
             {
                 "begin": "20250128T040000",
                 "end": "20250128T050000"
             },
             {
-                "begin": "20250129T040000",
-                "end": "20250129T050000"
+                "begin": "20250128T040000",
+                "end": "20250130T091940"
             },
             {
                 "begin": "20250129T040000",
                 "end": "20250130T091945"
+            },
+            {
+                "begin": "20250129T040000",
+                "end": "20250129T050000"
             },
             {
                 "begin": "20250130T040000",
@@ -26046,24 +26046,6 @@
         "shortMessage": "Trafic perturbé"
     },
     {
-        "id": "72e3767c-e2fb-11ef-8fb5-0a58a9feac02",
-        "applicationPeriods": [
-            {
-                "begin": "20250204T142200",
-                "end": "20250205T043000"
-            }
-        ],
-        "lastUpdate": "20250204T142506",
-        "cause": "PERTURBATION",
-        "severity": "PERTURBEE",
-        "tags": [
-            "Actualité"
-        ],
-        "title": "Métro 5 : Bagage oublié sur un quai - Trafic perturbé",
-        "message": "<p>Le trafic est perturbé sur l'ensemble de la ligne en raison d'un bagage oublié sur un quai à Hoche.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
-        "shortMessage": "Trafic perturbé"
-    },
-    {
         "id": "2781db14-e2fc-11ef-9114-0a58a9feac02",
         "applicationPeriods": [
             {
@@ -26143,6 +26125,41 @@
         "severity": "PERTURBEE",
         "title": "RESEAU SENART DEV DU 10 FEVRIER AU 07 MARS 2025",
         "message": "<p>Du lundi 10 février au vendredi 07 mars 2025<br>En raison de la création d’une piste cyclable sur l’Avenue du Clocher à Savigny-Le –Temple, et de la fermeture de celle-ci une déviation est mise en place. Les arrêts « Résistance » « Le Clocher » ne seront pas desservis.</p>"
+    },
+    {
+        "id": "65c0c2a8-e2fe-11ef-8fb5-0a58a9feac02",
+        "applicationPeriods": [
+            {
+                "begin": "20250204T144112",
+                "end": "20250204T144212"
+            }
+        ],
+        "lastUpdate": "20250204T144613",
+        "cause": "PERTURBATION",
+        "severity": "PERTURBEE",
+        "tags": [
+            "Actualité"
+        ],
+        "title": "Métro 5 : Bagage oublié sur un quai - Trafic perturbé",
+        "message": "<p>Le trafic est perturbé sur l'ensemble de la ligne en raison d'un bagage oublié sur un quai à Hoche.<br><a href='http://www.ratp.fr'>Plus d'informations sur le site ratp.fr</a></p>",
+        "shortMessage": "Trafic perturbé"
+    },
+    {
+        "id": "6d4de0e6-e2fe-11ef-9114-0a58a9feac02",
+        "applicationPeriods": [
+            {
+                "begin": "20250204T144500",
+                "end": "20250204T203000"
+            }
+        ],
+        "lastUpdate": "20250204T144625",
+        "cause": "PERTURBATION",
+        "severity": "PERTURBEE",
+        "tags": [
+            "Actualité"
+        ],
+        "title": "⚠️🚍#InfoTrafic- Ligne 1317 - Mardi 04 février 2025",
+        "message": "<p><span><strong>⚠️🚍</strong></span><span style=\"color:rgb(29,155,240);\"><span><strong>#InfoTrafic</strong></span></span><span><strong>- Ligne 1317 - Mardi 04 février 2025</strong></span></p><p>&nbsp;</p><p><span>En raison de contraintes d’exploitation, les départs suivants sont annulés :</span></p><p>&nbsp;</p><p><span>❌Départs de Gare de Cergy Préfecture : <strong>17h08, 18h49</strong></span></p><p><span>❌Départs Mairie de Méry-sur-Oise : <strong>18h02, 19h31</strong></span><br>&nbsp;</p><p><span>Veuillez nous excuser pour la gêne occasionnée</span></p>"
     },
     {
         "id": "6b3d4450-ef95-4122-8729-06f472849c7f",

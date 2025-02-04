@@ -1,6 +1,4 @@
 import requests
-import json
-import pandas as pd  # Import pandas for CSV conversion
 
 def get_disruptions():
     url = "https://prim.iledefrance-mobilites.fr/marketplace/disruptions_bulk/disruptions/v2"
