@@ -2,7 +2,7 @@
 
 ## Mettre en place le cron
 
-executer dans un cmd la commande : crontab -e
+executer dans un cmd la commande : `crontab -e`
 
 puis, en bas du fichier, ajouter la ligne (en partant du principe que le projet est dans le repertoire Desktop):
 
