@@ -1,9 +1,11 @@
 import requests
+import json
+import pandas as pd  # Import pandas for CSV conversion
 
 def get_disruptions():
     url = "https://prim.iledefrance-mobilites.fr/marketplace/disruptions_bulk/disruptions/v2"
     headers = {"apiKey": "zu1X4DO1FAyzGs9DPp96Aq79vjiRC9He"}
-
+   
     try:
         response = requests.get(url, headers=headers)
         response.raise_for_status()
@@ -12,5 +14,5 @@ def get_disruptions():
         print(f"HTTP error occurred: {http_err}")
     except requests.exceptions.RequestException as req_err:
         print(f"Request error occurred: {req_err}")
-
+   
     return None
