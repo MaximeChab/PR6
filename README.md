@@ -37,3 +37,9 @@ puis, en bas du fichier, ajouter la ligne (en partant du principe que le projet 
 Pour quitter le fichier faire `ctrl + x`, normalement le cron est effectif toutes les 1 minute (changer le premier `*` par `*/5` pour que ce soit toute les 5 minutes)
 
 --------------------------
+
+## Commandes Pyspark 
+
+df = spark.read.parquet("hdfs://localhost:9000/user/mon_dossier/disruptions_spark.parquet")
+df.printSchema()
+df.show(5)
