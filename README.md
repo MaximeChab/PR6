@@ -14,6 +14,12 @@ Si quand le cron installé on a l'erreur de permission, il faut changer celle-ci
 
 Puis changer les perms du hdfs : `hdfs dfs -chown ubuntu /user`, faire pareil avec les autres dossier si necessaire. Si necessaire, faire pareil avec les droits `hdfs dfs -chown 777 /user`.
 
+### Probleme au demarage
+
+C'est possible qu'il y ai un probleme au redemarage de SDFS, c'est probablement un pb de safety, il faut regarder si c'est le cas avec : `hdfs dfsadmin -safemode get`
+
+Si c'est écrit ON, alors il faut désactivé (cela formatte toutes les données dans le hdfs) : `hdfs namenode -format`
+
 --------------------------
 
 ## Stockage dans HDFS
